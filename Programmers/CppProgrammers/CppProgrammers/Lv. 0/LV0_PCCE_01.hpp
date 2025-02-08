@@ -8,6 +8,6 @@
 #ifndef LV0_PCCE_01_hpp
 #define LV0_PCCE_01_hpp
 
-#include <stdio.h>
+void Lv0_PCCE_01();
 
 #endif /* LV0_PCCE_01_hpp */
